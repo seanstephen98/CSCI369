@@ -1,0 +1,11 @@
+There are 2 columns.
+
+Reasoning : 
+
+	' order by 1 # works
+
+	' order by 10 # does not work
+
+	' order by 3 # does not work
+	
+	' order by 2 # works 
